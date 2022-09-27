@@ -1,0 +1,40 @@
+{
+  "work": [
+    {
+      "employer": "MYOB",
+      "dateFrom": "Jul 2022",
+      "dateTo": "Present",
+      "position": "Associate Developer",
+      "descriptors": [
+        "Number 1",
+        "Number 2"
+      ]
+    },
+    {
+      "employer": "MYOB",
+      "dateFrom": "Feb 2021",
+      "dateTo": "Jul 2022",
+      "position": "Protege Developer",
+      "descriptors": [
+        "Number 1",
+        "Number 2"
+      ]
+    },
+    {
+      "employer": "Sidekicker",
+      "dateFrom": "",
+      "dateTo": ""
+    }
+  ],
+  "education": [
+    {
+      "provider": "Media Design School",
+      "dateFrom": "Feb 2017",
+      "dateTo": "Nov 2019",
+      "descriptors": [
+        "Number 1",
+        "Number 2"
+      ]
+    }
+  ]
+}
